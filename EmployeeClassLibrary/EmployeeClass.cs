@@ -21,19 +21,19 @@
 
     {
 
-        Console.WriteLine("Entre Emp ID : ");
+        Console.WriteLine("Enter Emp ID : ");
 
         EmpID = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("Entre Emp Name : ");
+        Console.WriteLine("Enter Emp Name : ");
 
         EmpName = Convert.ToString(Console.ReadLine());
 
-        Console.WriteLine("Entre Salary per Hour : ");
+        Console.WriteLine("Enter Salary per Hour : ");
 
         SalaryPerHour = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("Entre No. Of Working Hours : ");
+        Console.WriteLine("Enter No. Of Working Hours : ");
 
         NoOfWorkingHours = Convert.ToInt32(Console.ReadLine());
 
